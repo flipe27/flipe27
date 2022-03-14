@@ -1,4 +1,4 @@
-<img src="https://www.pngall.com/wp-content/uploads/2016/05/Spider-Man-PNG-Clipart.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://logosmarcas.net/wp-content/uploads/2020/12/Batman-Emblema.png" min-width="350px" max-width="350px" width="500px" align="right" alt="Computador iuriCode">
 
 <!-- Frase principal -->
 <p align="left">こんにちはみんな 😎👊</p>

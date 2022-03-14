@@ -1,4 +1,4 @@
-<img src="http://3.bp.blogspot.com/-E60Mn_sB0Ns/UNN7fS-cjDI/AAAAAAAALXo/gyBJYl0BEKw/s1600/Imagens-em-png-Queroimagem.com+(188).png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://static.wikia.nocookie.net/liberproeliis/images/a/a1/Darth-vader-the-phantom-menace-obsessed-30.png/revision/latest?cb=20191221062750&path-prefix=pt-br" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 <!-- Frase principal -->
 <p align="left">こんにちはみんな 😎👊</p>

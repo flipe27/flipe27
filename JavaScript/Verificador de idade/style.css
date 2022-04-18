@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(13, 167, 214);
+    color: white;
+    font: normal 1em Arial;
+}
+header {
+    text-align: center;
+    font-size: 1.2em;
+}
+main {
+    background-color: white;
+    color: black;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    line-height: 30px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.295);
+}
+#res {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+#img {
+    width: 200px;
+    margin: auto;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+}
